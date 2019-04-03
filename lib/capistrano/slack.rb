@@ -1,5 +1,5 @@
 require 'capistrano'
-require 'capistrano/log_with_awesome'
+#require 'capistrano/log_with_awesome'
 require 'json'
 require 'net/http'
 require 'active_support/all'
