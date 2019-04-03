@@ -88,6 +88,6 @@ module Capistrano
   end
 end
 
-if Capistrano::Configuration.instance
-  Capistrano::Configuration.instance.extend(Capistrano::Slack)
-end
+#if Capistrano::Configuration.instance
+#  Capistrano::Configuration.instance.extend(Capistrano::Slack)
+#end
